@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteDbDemo</string>
+    <string name="btn_db_create">Create DB</string>
+    <string name="insert_data">INSERT DATA</string>
+    <string name="region">Region</string>
+    <string name="place">Place</string>
+    <string name="name">Name</string>
+    <string name="view_all">View All</string>
+
+</resources>
